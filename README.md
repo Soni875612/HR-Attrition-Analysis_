@@ -138,9 +138,6 @@ Data Analyst | Business Intelligence Enthusiast
 
 ---
 
-# 🔥 Optional (Highly Recommended)
-
-GitHub me README ke niche ye add karo:
 
 ## 📷 Dashboard Preview
 
