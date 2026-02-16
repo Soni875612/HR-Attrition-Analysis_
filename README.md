@@ -92,7 +92,7 @@ The dashboard includes the following major metrics:
 
 The dataset used for this project can be downloaded below:
 
-[Download HR Attrition Dataset]()
+[Download HR Attrition Dataset](https://github.com/Soni875612/HR-Attrition-Analysis_/blob/main/HR%20Attrition%20Analysis_SONI.pbix)
 ## 📂 Project File
 
 ```
